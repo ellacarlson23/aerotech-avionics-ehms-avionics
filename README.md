@@ -1,10 +1,5 @@
 # EHMS - Engine Health Monitoring System
 
-[![DO-178C](https://img.shields.io/badge/DO--178C-Level%20B-blue)](https://en.wikipedia.org/wiki/DO-178C)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](/)
-[![Coverage](https://img.shields.io/badge/coverage-94%25-green)](/)
-[![MISRA-C](https://img.shields.io/badge/MISRA--C-2012-orange)](/)
-
 ## Overview
 
 The **Engine Health Monitoring System (EHMS)** is a certified avionics software solution providing real-time engine performance monitoring, predictive maintenance analytics, and health trend analysis for commercial and business aviation turbofan engines.
@@ -129,12 +124,12 @@ make coverage
 
 | Objective | Status |
 |-----------|--------|
-| Software Planning | ✅ Complete |
-| Software Development | 🔄 In Progress |
-| Software Verification | 🔄 In Progress |
-| Configuration Management | ✅ Complete |
-| Quality Assurance | ✅ Complete |
-| Certification Liaison | 🔄 In Progress |
+| Software Planning | Complete |
+| Software Development |  In Progress |
+| Software Verification |  In Progress |
+| Configuration Management |  Complete |
+| Quality Assurance |  Complete |
+| Certification Liaison |  In Progress |
 
 ### Coding Standards
 
